@@ -58,6 +58,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void visitTARUC(View view){
+
         String uri="http://www.tarc.edu.my";
         Intent intent = new Intent(Intent.ACTION_VIEW);
         intent.setData(Uri.parse(uri));
