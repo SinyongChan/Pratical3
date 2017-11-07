@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pratical3</string>
+    <string name="name">Name :</string>
+    <string name="email">Email :</string>
+    <string name="update">Update Profile</string>
+    <string name="profile_picture">Profile picture</string>
+    <string name="input_name">Name</string>
+    <string name="input_email">Email</string>
+    <string name="save">Save</string>
+</resources>
